@@ -1,0 +1,25 @@
+[{
+	"name":"Action",
+	"id":"1"	
+},{
+	"name":"Aventure",
+	"id":"2"
+},{
+	"name":"Stratégie",
+	"id":"3"
+},{
+	"name":"Action",
+	"id":"4"
+},{
+	"name":"Sport",
+	"id":"5"
+},{
+	"name":"Course",
+	"id":"6"
+},{
+	"name":"Réflexion",
+	"id":"7"
+},{
+	"name":"Shooter",
+	"id":"8"
+}]
